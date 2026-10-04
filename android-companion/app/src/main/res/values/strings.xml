@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PS Rental Companion</string>
+    <string name="setup_title">Setup Companion</string>
+    <string name="hint_server">Server URL (https://domain.com)</string>
+    <string name="hint_station">Station ID</string>
+    <string name="btn_save">Save &amp; Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_offline">OFFLINE</string>
+    <string name="status_connecting">Reconnecting…</string>
+    <string name="notif_channel">Companion Status</string>
+    <string name="notif_title">PS Rental Companion</string>
+    <string name="session_ended">SESI BERAKHIR</string>
+    <string name="session_locked">TV TERKUNCI</string>
+    <string name="contact_operator">Hubungi operator untuk melanjutkan</string>
+</resources>
